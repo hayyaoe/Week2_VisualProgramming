@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week2_Exercise</string>
+    <string name="title_activity_detail_product">DetailProduct</string>
+    <string name="title_activity_list_produk">ListProduk</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_profile">Profile</string>
+</resources>
